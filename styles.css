@@ -1,0 +1,8 @@
+:root {
+    --main-bg-color: blue;
+}
+
+div {
+    background-color: var(--main-bg-color);
+    width: calc(50%/3);
+}
