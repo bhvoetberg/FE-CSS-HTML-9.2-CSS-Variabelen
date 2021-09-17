@@ -5,4 +5,5 @@
 div {
     background-color: var(--main-bg-color);
     width: calc(50%/3);
+    color: white;
 }
